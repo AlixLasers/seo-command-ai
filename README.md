@@ -1,1 +1,1 @@
-# AlixSearchDE
+# seo-command-ai
